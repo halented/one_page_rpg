@@ -1,0 +1,2 @@
+class Blockhead < ApplicationRecord
+end

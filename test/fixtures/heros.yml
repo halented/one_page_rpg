@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  health: MyString
+  level: MyString
+  stats: MyString
+  progress: MyString
+
+two:
+  name: MyString
+  health: MyString
+  level: MyString
+  stats: MyString
+  progress: MyString
